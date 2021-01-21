@@ -1,0 +1,19 @@
+$primaryColor: white;
+$secudaryColor: black;
+$fontColor: grey;
+$FontSize: 14px;
+
+h1 {
+  color: $primaryColor;
+  font-size: $FontSize;
+}
+
+p {
+  color: $secudaryColor;
+  font-size: $FontSize;
+}
+
+h2 {
+  color: $fontColor;
+  font-size: $FontSize;
+}
